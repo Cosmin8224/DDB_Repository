@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DDB_Server.props" />
+</Project>

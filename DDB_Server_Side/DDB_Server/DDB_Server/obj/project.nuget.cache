@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "tlfvTmstNoF5J+8qmjvlFSNVmvLmrJefm6F0OXG9km1REGAjEU59pvPlzLVX8tZ5pOGJbOMauFXtY59B6PH/xg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cosmi\\OneDrive\\Desktop\\DDB_Repository\\DDB_Repository\\DDB_Server_Side\\DDB_Server\\DDB_Server\\DDB_Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cosmi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\cosmi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\cosmi\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\cosmi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\cosmi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\cosmi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
